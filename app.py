@@ -3,7 +3,7 @@ import streamlit as st
 club_info = {
     "name": "Campus Rescue Station",
     "day": "Monday - Friday",
-    "time": "10:00 AM - 4:00 PM",
+    "time": "9:00 AM - 5:00 PM",
     "location": "Campus Library Desk"
 }
 
