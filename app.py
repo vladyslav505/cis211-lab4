@@ -10,7 +10,8 @@ club_info = {
 activities = [
     "Borrow a phone charger",
     "Borrow an umbrella",
-    "Borrow a calculator"
+    "Borrow a calculator",
+    "Borrow a notebook"
 ]
 
 st.title(club_info["name"])
